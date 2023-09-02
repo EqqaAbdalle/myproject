@@ -1,0 +1,78 @@
+*.main {
+    width: 940px;
+    min-height: 100px;
+    border: 2px solid navy;
+    margin: 5px auto;
+    padding: 3px;
+}
+.hero {
+    width: 920px;
+    height: 200px;
+    border: 2px solid navy;
+    margin: 5px auto;
+    padding: 3px; 
+}
+.hero h1 {
+    text-align: center;
+    color: blueviolet;
+   
+}
+.hero p {
+    text-align: center;
+    color: rgb(97, 50, 7);
+    
+}
+.topnav {
+    width: 940px;
+    height: 18px;
+    border: 2px solid navy;
+    margin: 5px auto;
+    padding: 3px;
+  
+}
+.contents {
+    width: 940px;
+    height: 30px;
+    border: 2px solid navy;
+    margin: 3px auto;
+    padding: 5px;
+    margin-top: 50px;
+}
+.footer {
+    width: 940px;
+    min-height: 100px;
+    border: 2px solid navy;
+    margin: 5px auto;
+    padding: 3px;
+}
+.footer h2 {
+    text-align: center;
+    color: crimson;
+}
+.sectionone {
+    width: 289px;
+    min-height: 400px;
+    border: 2px solid navy;
+    margin: 5px;
+    padding: 3px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.sectiontwo {
+    width: 289px;
+    min-height: 400px;
+    border: 2px solid navy;
+    margin: 5px;
+    padding: 3px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.sectionthree {
+    width: 289px;
+    min-height: 400px;
+    border: 2px solid navy;
+    margin: 5px;
+    padding: 3px;
+    display: inline-block;
+    margin-top: 20px;
+}
